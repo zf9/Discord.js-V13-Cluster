@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "discord-hybrid-sharding": "^1.4.3",
+    "discord.js": "13.5",
+    "fs": "^0.0.1-security",
+    "ms": "^2.1.3"
+  }
+}
